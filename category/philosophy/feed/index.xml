@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Philosophy &#8211; Arisbottle</title>
+	<title>Philosophy Archives - Arisbottle</title>
 	<atom:link href="https://www.arisbottle.com/category/philosophy/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.arisbottle.com</link>
 	<description>A new beginning!</description>
@@ -32,7 +32,9 @@
 		<category><![CDATA[world]]></category>
 		<guid isPermaLink="false">https://www.arisbottle.com/?p=18</guid>
 
-					<description><![CDATA[Lorem Ipsum&#160;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic [&#8230;]]]></description>
+					<description><![CDATA[<p>Lorem Ipsum&#160;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.arisbottle.com/2022/04/19/day-4-may-the-fourth-be-with-you/">Day 4: May the fourth be with you!</a> appeared first on <a rel="nofollow" href="https://www.arisbottle.com">Arisbottle</a>.</p>
+]]></description>
 		
 					<wfw:commentRss>https://www.arisbottle.com/2022/04/19/day-4-may-the-fourth-be-with-you/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

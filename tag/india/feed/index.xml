@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>india &#8211; Arisbottle</title>
+	<title>india Archives - Arisbottle</title>
 	<atom:link href="https://www.arisbottle.com/tag/india/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.arisbottle.com</link>
 	<description>A new beginning!</description>
@@ -34,7 +34,9 @@
 		<category><![CDATA[world]]></category>
 		<guid isPermaLink="false">https://www.arisbottle.com/?p=1</guid>
 
-					<description><![CDATA[Cheers to this new beginning 🙂 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five [&#8230;]]]></description>
+					<description><![CDATA[<p>Cheers to this new beginning 🙂 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.arisbottle.com/2022/03/08/hello-world/">Day 1: Hello world!</a> appeared first on <a rel="nofollow" href="https://www.arisbottle.com">Arisbottle</a>.</p>
+]]></description>
 		
 					<wfw:commentRss>https://www.arisbottle.com/2022/03/08/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
