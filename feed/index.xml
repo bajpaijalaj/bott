@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Arisbottle</title>
+	<atom:link href="https://www.arisbottle.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.arisbottle.com</link>
+	<description>A new beginning!</description>
+	<lastBuildDate>Fri, 27 May 2022 00:36:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>Day 2: This is another test post!</title>
+		<link>https://www.arisbottle.com/2022/05/26/day-2-this-is-another-test-post/</link>
+					<comments>https://www.arisbottle.com/2022/05/26/day-2-this-is-another-test-post/#respond</comments>
+		
+		<dc:creator><![CDATA[arisbottle]]></dc:creator>
+		<pubDate>Thu, 26 May 2022 21:11:29 +0000</pubDate>
+				<category><![CDATA[Politics]]></category>
+		<category><![CDATA[football]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[test]]></category>
+		<category><![CDATA[world]]></category>
+		<guid isPermaLink="false">https://www.arisbottle.com/?p=14</guid>
+
+					<description><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.arisbottle.com/2022/05/26/day-2-this-is-another-test-post/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Day 4: May the fourth be with you!</title>
+		<link>https://www.arisbottle.com/2022/04/19/day-4-may-the-fourth-be-with-you/</link>
+					<comments>https://www.arisbottle.com/2022/04/19/day-4-may-the-fourth-be-with-you/#respond</comments>
+		
+		<dc:creator><![CDATA[arisbottle]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2022 21:12:00 +0000</pubDate>
+				<category><![CDATA[Philosophy]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[test]]></category>
+		<category><![CDATA[world]]></category>
+		<guid isPermaLink="false">https://www.arisbottle.com/?p=18</guid>
+
+					<description><![CDATA[Lorem Ipsum&#160;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.arisbottle.com/2022/04/19/day-4-may-the-fourth-be-with-you/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Day 1: Hello world!</title>
+		<link>https://www.arisbottle.com/2022/03/08/hello-world/</link>
+					<comments>https://www.arisbottle.com/2022/03/08/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[arisbottle]]></dc:creator>
+		<pubDate>Tue, 08 Mar 2022 19:17:00 +0000</pubDate>
+				<category><![CDATA[Shopping]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[india]]></category>
+		<category><![CDATA[politics]]></category>
+		<category><![CDATA[test]]></category>
+		<category><![CDATA[world]]></category>
+		<guid isPermaLink="false">https://www.arisbottle.com/?p=1</guid>
+
+					<description><![CDATA[Cheers to this new beginning 🙂 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.arisbottle.com/2022/03/08/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Day 3: This is the third!</title>
+		<link>https://www.arisbottle.com/2022/01/11/day-3-this-is-the-third/</link>
+					<comments>https://www.arisbottle.com/2022/01/11/day-3-this-is-the-third/#respond</comments>
+		
+		<dc:creator><![CDATA[arisbottle]]></dc:creator>
+		<pubDate>Tue, 11 Jan 2022 21:12:00 +0000</pubDate>
+				<category><![CDATA[World History]]></category>
+		<category><![CDATA[cricket]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[test]]></category>
+		<category><![CDATA[world]]></category>
+		<guid isPermaLink="false">https://www.arisbottle.com/?p=16</guid>
+
+					<description><![CDATA[Lorem Ipsum&#160;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://www.arisbottle.com/2022/01/11/day-3-this-is-the-third/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
